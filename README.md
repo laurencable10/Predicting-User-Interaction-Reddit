@@ -4,7 +4,8 @@
 
 Pitching a narrative on how to create a Reddit post that will get the most engagement from Reddit users by putting classification methods, webscraping, and Natural Language Processing skills to the test 
 
-For this project, two major data science skills will be practiced: Collecting data by scraping a website and building classification models to predict "viral" Reddit posts by creating a binary variable. 
+For this project, the following fundamental data science skills are practiced: 
+- Collecting data by scraping a website and building classification models to predict "viral" Reddit posts by creating a binary variable. 
 
 ## Project Summary
 
